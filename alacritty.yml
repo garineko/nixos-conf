@@ -1,0 +1,27 @@
+font:
+  normal:
+    family: monospace
+    style: Regular
+  
+  bold:
+    family: monospace
+    style: Bold
+    
+  italic:
+    family: monospace
+    style: Italic
+    
+  bold_italic:
+    family: monospace
+    style: Bold Italic
+    
+  size: 10
+
+window:
+  opacity: 0.8
+  
+env:
+  WINIT_X11_SCALE_FACTOR: "1.0"
+
+import:
+  - ~/.config/alacritty/dracula.yml
